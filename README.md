@@ -22,4 +22,4 @@ This project took me around 8 hour to finish.
 ![image](./Screenshot1.png)
 ![image](./Screenshot.png)
 
-![Static Badge](https://img.shields.io/badge/Live%20Link-%23f20a0a)(https://dev9landingpage.netlify.app/)
+[<img src= "https://img.shields.io/badge/Live%20Link-%23f20a0a" />](https://dev9landingpage.netlify.app/)
